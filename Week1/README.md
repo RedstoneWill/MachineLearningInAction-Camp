@@ -20,5 +20,5 @@
 
 [Jupyter Notebook入门教程（下）]( https://mp.weixin.qq.com/s/AwSzkjlpwvdUzh6CmHq6AQ)
 
-
+[距离产生美？k近邻算法python实现](https://mp.weixin.qq.com/s/4PyXz2p00Lf783bEUg_N2Q)
 
