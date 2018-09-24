@@ -8,6 +8,10 @@
 
 - [廖雪峰 Python3 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
+- 李航《统计学习方法》(链接：https://pan.baidu.com/s/1MSx407RuPCJt5KSej0Yqlg 密码：h74l)
+
+- 周志华《机器学习》（链接：https://pan.baidu.com/s/1wyqhvJHkI1zHph8RRsm9iw 密码：1475）
+
 - [机器学习该怎么入门？](https://www.zhihu.com/question/20691338/answer/446610161)
 
 
