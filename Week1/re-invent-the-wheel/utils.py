@@ -34,6 +34,6 @@ def create_dataset():
         [0, 0],
         [0, 0.1],
     ])
-    y = np.array(['A', 'A', 'B', 'B'])
+    y = np.array(['0', '0', '1', '1'])
 
     return X, y
