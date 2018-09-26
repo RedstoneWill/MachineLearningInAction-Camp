@@ -9,7 +9,7 @@ The structure is inspired by scikit-learn python library.
 import numpy as np
 from collections import Counter
 
-import utils
+from lib import utils
 
 
 class KNeighborsClassifier:
