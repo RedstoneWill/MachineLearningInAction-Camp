@@ -1,3 +1,5 @@
+"""Predict if you like this person"""
+
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
