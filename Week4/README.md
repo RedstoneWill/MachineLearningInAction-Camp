@@ -14,6 +14,12 @@
 
 - o2o Code_Easy：天池 o2o 预测赛（初级）代码、流程介绍 PPT、代码解析 PPT
 
+## o2o 视频讲解+PPT 下载
+
+链接：https://pan.baidu.com/s/14uq9N3lNCovrSQS3XZUNxg 
+
+提取码：ax1a 
+
 ## 参考资料
 
 李航《统计学习方法》第 7 章
