@@ -197,13 +197,13 @@
 
 - 14.6 示例：基于 SVD 的图像压缩
 
-### 17. 大数据与 MapReduce（第十周）
+### *17. 大数据与 MapReduce（第十周）
 
 - 15.1 MapReduce：分布式计算的框架
 
 - 15.2 Hadoop 流
 
-- *15.3 在 Amazon 网络服务上运行 Hadoop 程序
+- 15.3 在 Amazon 网络服务上运行 Hadoop 程序
 
 - 15.4 MapReduce 上的机器学习
 
