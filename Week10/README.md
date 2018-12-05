@@ -12,4 +12,13 @@
 
 - Assignment：作业
 
+- o2o Code_Hard：天池 o2o 预测赛（进阶）代码、流程介绍 PPT、代码解析 PPT
+
+## o2o 视频讲解+PPT 下载
+
+链接：https://pan.baidu.com/s/1R_rRuIfVclZiojAABSoZSA 
+
+提取码：8heg 
+
+
 
